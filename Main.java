@@ -37,6 +37,7 @@ public class Main {
 	}
 	else
 		{
+		Login.login_flag = 0;
 		bookTickets.movieSelect(); break;
 		}
 		
